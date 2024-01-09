@@ -1,5 +1,5 @@
 // 로그인
-const loginWrap = document.querySelector('.login_wrap');
+const loginWrap = document.querySelector('.login_wrap'); 
 const loginForm = document.querySelector(".login_form");
 const loginInput = document.querySelector(".login_form input");
 const greeting = document.querySelector(".greeting");
